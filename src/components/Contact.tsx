@@ -76,7 +76,6 @@ const Right = styled.div`
 `;
 
 const Contact = () => {
-  debugger
   const ref = useRef<HTMLFormElement>(null);
   const [success, setSuccess] = useState(false);
 
