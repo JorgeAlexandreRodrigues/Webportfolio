@@ -11,8 +11,8 @@ interface ListItemProps {
 const data: string[] = [
   "Web Design",
   "Development",
-  "Illustration",
-  "Product Design",
+  "Business Plan",
+  "BIM Consulting",
   "Social Media",
 ];
 
@@ -40,6 +40,7 @@ const Left = styled.div`
   flex: 1;
   display: flex;
   align-items: center;
+
   @media only screen and (max-width: 768px) {
     padding: 20px;
     justify-content: center;

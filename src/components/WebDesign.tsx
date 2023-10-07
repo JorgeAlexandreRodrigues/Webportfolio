@@ -12,6 +12,7 @@ const Desc = styled.div`
   position: absolute;
   top: 100px;
   right: 100px;
+  
   @media only screen and (max-width: 768px) {
     top: 0;
     bottom: 0;

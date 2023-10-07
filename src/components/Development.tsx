@@ -1,4 +1,4 @@
-import { Stage, OrbitControls } from "@react-three/drei";
+import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import SceneDraco from "./SceneDraco";
 import styled from "styled-components";
